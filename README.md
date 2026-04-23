@@ -8,10 +8,11 @@ Interactive Streamlit dashboard for monitoring Unaccompanied Alien Children (UAC
 - Discharge offset ratio
 - Strain period detection
 - Date range & granularity filters
+- [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://uac-dashboard-3qvqqrmpkgndq9n78er3jz.streamlit.app/)
 
 ## Installation
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://uac-dashboard-3qvqqrmpkgndq9n78er3jz.streamlit.app/)
+
