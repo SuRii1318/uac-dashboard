@@ -9,6 +9,7 @@ Interactive Streamlit dashboard for monitoring Unaccompanied Alien Children (UAC
 - Strain period detection
 - Date range & granularity filters
 - [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://uac-dashboard-3qvqqrmpkgndq9n78er3jz.streamlit.app/)
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19711977.svg)](https://doi.org/10.5281/zenodo.19711977)
 
 ## Installation
 ```bash
