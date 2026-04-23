@@ -13,3 +13,5 @@ Interactive Streamlit dashboard for monitoring Unaccompanied Alien Children (UAC
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+The live dashboard is available here: [UAC System Capacity Dashboard](https://uac-dashboard-3qvqqrmpkgndq9n78er3jz.streamlit.app/)
