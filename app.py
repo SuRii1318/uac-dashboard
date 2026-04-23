@@ -13,7 +13,7 @@ st.markdown("**Data source:** HHS UAC Daily Report (Dec 2023 – Dec 2025)")
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv(r'C:\Users\Surender\OneDrive\Desktop\uac_dashboard\HHS_Unaccompanied_Alien_Children_Program.csv')
+     df = pd.read_csv("HHS_Unaccompanied_Alien_Children_Program.csv")
     # Drop completely empty rows
     df = df.dropna(how='all')
     # Convert Date
